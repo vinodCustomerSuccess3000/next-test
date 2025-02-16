@@ -1,4 +1,3 @@
-// functions/users.js
 export default function handler(request, response) {
     const users = [
       {name: "Jack", age: "25"},
